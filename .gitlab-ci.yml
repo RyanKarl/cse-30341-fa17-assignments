@@ -1,0 +1,4 @@
+image: pbui/dredd:20170814
+test:
+  script:
+    - .scripts/submit.py
