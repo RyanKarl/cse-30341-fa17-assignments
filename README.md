@@ -5,7 +5,7 @@ This is the [CSE-30341-FA17] reading and challenge assignments repository for:
 
 - **Name**:     Domer McDomerson
 
-- **NetID**:    dmcdomer
+- **NetID**:    rkarl
 
 [CSE-30341-FA17]:   https://www3.nd.edu/~pbui/teaching/cse.30341.fa17/
 
