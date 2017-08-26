@@ -1,0 +1,30 @@
+{
+  "q1": [
+    "registers",
+    "pid",
+    "address"
+  ],
+  "q2": "child",
+  "q3": [
+    "loads",
+    "args",
+    "memory"
+  ],
+  "q4": "persists",
+  "q5": [
+    "opendir",
+    "\".\"",
+    "dirent",
+    "readdir",
+    "stat",
+    "stat",
+    "e->d_name",
+    "S_ISREG",
+    "e->d_name",
+    "closedir"
+  ],
+  "q6": [
+    "/dev/sda2",
+    "ext4"
+  ]
+}
