@@ -3,7 +3,7 @@ Assignments
 
 This is the [CSE-30341-FA17] reading and challenge assignments repository for:
 
-- **Name**:     Domer McDomerson
+- **Name**:     Ryan Karl
 
 - **NetID**:    rkarl
 
