@@ -1,0 +1,33 @@
+{
+  "q1": [
+    "virtualization",
+    "concurrency",
+    "persistence"
+  ],
+  "q2": [
+    "Virtualization",
+    "processor",
+    "memory",
+    "disk"
+  ],
+  "q3": [
+    "system calls",
+    "trap",
+    "user",
+    "kernel"
+  ],
+  "q4": "atomicops",
+  "q5": [
+    "multiprogramming",
+    "utilization",
+    "memory protection",
+    "concurrency"
+  ],
+  "q6": [
+    "bios",
+    "mbr",
+    "bootloader",
+    "kernel",
+    "init"
+  ]
+}
