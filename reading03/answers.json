@@ -1,0 +1,46 @@
+{
+  "q1": [
+    "scheduling policy",
+    "discipline",
+    "workload",
+    "scheduling metric",
+    "turnaround time",
+    "response time"
+  ],
+  "q2": "convoy",
+  "q3": "convoy",
+  "q4": [
+    "turnaround",
+    "preemption"
+  ],
+  "q5": [
+    "response time",
+    "Round-Robin",
+    "time slice",
+    "amortize",
+    "switching"
+  ],
+  "q6": [
+    "fair",
+    "turnaround",
+    "response"
+  ],
+  "q7": [
+    "lowers",
+    "starvation",
+    "queues",
+    "sjf",
+    "roundrobin"
+  ],
+  "q8": [
+    "tickets",
+    "random",
+    "implementation"
+  ],
+  "q9": [
+    "multi-queue multiprocessor scheduling",
+    "load imbalance",
+    "migration",
+    "work stealing"
+  ]
+}
