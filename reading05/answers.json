@@ -1,0 +1,55 @@
+{
+  "q01": [
+    "lock",
+    "lock variable",
+    "available",
+    "acquired",
+    "owner"
+  ],
+  "q02": [
+    "bkl",
+    "different"
+  ],
+  "q03": [
+    "mutual exclusion",
+    "fairness",
+    "performance"
+  ],
+  "q04": [
+    "compareandswap",
+    "interrupts",
+    "fetchandadd",
+    "loadlink",
+    "testandset"
+  ],
+  "q05": [
+    "waiting",
+    "yielding",
+    "parking"
+  ],
+  "q06": [
+    "thread safe",
+    "monitor"
+  ],
+  "q07": [
+    "lock",
+    "flow"
+  ],
+  "q08": [
+    "condition variable",
+    "waiting",
+    "signaling"
+  ],
+  "q09": [
+    "signal",
+    "change"
+  ],
+  "q10": [
+    "while loops",
+    "spurious wakeups",
+    "empty",
+    "fill",
+    "fill",
+    "empty"
+  ]
+}
