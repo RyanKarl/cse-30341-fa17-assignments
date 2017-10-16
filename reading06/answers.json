@@ -1,0 +1,50 @@
+{
+  "q01": [
+    "semaphore",
+    "integer",
+    "sem_wait",
+    "sem_post"
+  ],
+  "q02": [
+    "cond_call",
+    "lock_init"
+  ],
+  "q03": [
+    "1",
+    "0",
+    "QUEUE_MAX",
+    "sem_wait(&full)",
+    "sem_wait(&mutex)",
+    "sem_post(&mutex)",
+    "sem_post(&empty)",
+    "sem_post(&full)",
+    "sem_wait(&empty)",
+    "sem_wait(&mutex)",
+    "sem_post(&mutex)",
+    "sem_post(&full)"
+  ],
+  "q04": [
+    "starvation",
+    "concurrency"
+  ],
+  "q05": "order",
+  "q06": [
+    "atomicity violation",
+    "order violation"
+  ],
+  "q07": [
+    "circular wait",
+    "no preemption",
+    "hold-and-wait",
+    "mutual exclusion"
+  ],
+  "q08": [
+    "ordering",
+    "lockfree"
+  ],
+  "q09": [
+    "scheduler",
+    "detects",
+    "recovery"
+  ]
+}
