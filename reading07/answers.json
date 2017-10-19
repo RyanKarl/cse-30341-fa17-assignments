@@ -1,0 +1,51 @@
+{
+  "q01": [
+    "virtualizes",
+    "address space",
+    "virtual",
+    "physical"
+  ],
+  "q02": [
+    "Protection",
+    "Transparency",
+    "Efficiency"
+  ],
+  "q03": [
+    "code",
+    "stack",
+    "heap",
+    "data"
+  ],
+  "q04": [
+    "segfault",
+    "overflow",
+    "uninitread",
+    "memleak",
+    "dangling",
+    "double",
+    "invalid"
+  ],
+  "q05": [
+    "address translation",
+    "memory access",
+    "managing memory"
+  ],
+  "q06": [
+    "dynamic relocation",
+    "base",
+    "bounds",
+    "memory management unit",
+    "base",
+    "internal fragmentation"
+  ],
+  "q07": [
+    "free list",
+    "splitting",
+    "coalescing"
+  ],
+  "q08": [
+    "nextfit",
+    "worstfit",
+    "firstfit"
+  ]
+}
